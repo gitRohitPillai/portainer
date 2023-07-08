@@ -12,5 +12,10 @@ vulhub/django:4.0.5
 
 nginx:stable-alpine
 
+# If codespace stops
+
+1. Start the codespace again
+2. Give command to start the portainer container - docker start portainer
+3. wpstack
 
 
